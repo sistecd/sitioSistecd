@@ -1,0 +1,48 @@
+<manifest alg="2" build="30" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="3983832653"/>
+    <file name="master_a-p_gina-maestra.css" crc="426674250" ref="nosotros:index:productos-y-servicios:tienda:contacto"/>
+    <file name="nosotros.css" crc="152515545" ref="nosotros"/>
+    <file name="index.css" crc="152515545" ref="index"/>
+    <file name="productos-y-servicios.css" crc="152515545" ref="productos-y-servicios"/>
+    <file name="tienda.css" crc="152515545" ref="tienda"/>
+    <file name="contacto.css" crc="152515545" ref="contacto"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contacto:tienda:productos-y-servicios:nosotros"/>
+    <file name="museutils.js" crc="4291592202" ref="index:contacto:tienda:productos-y-servicios:nosotros"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="index:contacto:tienda:productos-y-servicios:nosotros"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index:contacto:tienda:productos-y-servicios:nosotros"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="index"/>
+    <file name="webpro.js" crc="3903299128" ref="index:contacto:tienda:productos-y-servicios:nosotros"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="index:contacto:tienda:productos-y-servicios:nosotros"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="index:contacto:tienda:productos-y-servicios:nosotros"/>
+    <file name="touchswipe.js" crc="4156838003" ref="index:contacto:tienda:productos-y-servicios:nosotros"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:contacto:tienda:productos-y-servicios:nosotros"/>
+  </folder>
+  <folder name="images">
+    <file name="image.png" crc="105742106" ref="index"/>
+    <file name="6569x240.jpg" crc="4057617136" ref="index"/>
+    <file name="4.jpg" crc="534247538" ref="index"/>
+    <file name="5.png" crc="3888116707" ref="index"/>
+    <file name="6.jpg" crc="115109992" ref="index"/>
+    <file name="11.png" crc="4142235851" ref="index"/>
+    <file name="22.jpg" crc="417775444" ref="index"/>
+    <file name="33.png" crc="429411795" ref="index"/>
+    <file name="44.jpg" crc="266476200" ref="index"/>
+    <file name="55.png" crc="4161702379" ref="index"/>
+    <file name="111.png" crc="247933131" ref="index"/>
+    <file name="222.png" crc="3985288705" ref="index"/>
+    <file name="webhosting1.jpg" crc="516013456" ref="index"/>
+    <file name="image.jpg" crc="4033229976" ref="index"/>
+    <file name="image (1).png" crc="141178514" ref="index"/>
+    <file name="image (2).png" crc="491811672" ref="index"/>
+    <file name="image (3).png" crc="295513067" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3778554924" mt="1425684377110" redirect="true"/>
+  <file name="contacto.html" crc="3938926952" mt="1425684377114" redirect="true"/>
+  <file name="tienda.html" crc="3941010748" mt="1425684377125" redirect="true"/>
+  <file name="productos-y-servicios.html" crc="3985284997" mt="1425684377129" redirect="true"/>
+  <file name="nosotros.html" crc="112058270" mt="1425684377133" redirect="true"/>
+</manifest>
